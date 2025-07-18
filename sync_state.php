@@ -1,0 +1,1 @@
+<?php // Sync play/pause/time state ?>

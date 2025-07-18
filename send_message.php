@@ -1,0 +1,1 @@
+<?php // Live chat handler ?>

@@ -1,0 +1,1 @@
+<?php // Join existing room logic ?>

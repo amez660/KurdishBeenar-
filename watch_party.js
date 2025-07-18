@@ -1,0 +1,1 @@
+// JavaScript for syncing video playback and live chat
